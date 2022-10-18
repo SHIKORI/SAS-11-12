@@ -1,0 +1,15 @@
+C:\Users\miles feliciano\source\repos\brrt brrt 4\brrt brrt 4\obj\Debug\net6.0\brrt brrt 4.csproj.AssemblyReference.cache
+C:\Users\miles feliciano\source\repos\brrt brrt 4\brrt brrt 4\obj\Debug\net6.0\brrt brrt 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miles feliciano\source\repos\brrt brrt 4\brrt brrt 4\obj\Debug\net6.0\brrt brrt 4.AssemblyInfoInputs.cache
+C:\Users\miles feliciano\source\repos\brrt brrt 4\brrt brrt 4\obj\Debug\net6.0\brrt brrt 4.AssemblyInfo.cs
+C:\Users\miles feliciano\source\repos\brrt brrt 4\brrt brrt 4\obj\Debug\net6.0\brrt brrt 4.csproj.CoreCompileInputs.cache
+C:\Users\miles feliciano\source\repos\brrt brrt 4\brrt brrt 4\bin\Debug\net6.0\brrt brrt 4.exe
+C:\Users\miles feliciano\source\repos\brrt brrt 4\brrt brrt 4\bin\Debug\net6.0\brrt brrt 4.deps.json
+C:\Users\miles feliciano\source\repos\brrt brrt 4\brrt brrt 4\bin\Debug\net6.0\brrt brrt 4.runtimeconfig.json
+C:\Users\miles feliciano\source\repos\brrt brrt 4\brrt brrt 4\bin\Debug\net6.0\brrt brrt 4.dll
+C:\Users\miles feliciano\source\repos\brrt brrt 4\brrt brrt 4\bin\Debug\net6.0\brrt brrt 4.pdb
+C:\Users\miles feliciano\source\repos\brrt brrt 4\brrt brrt 4\obj\Debug\net6.0\brrt brrt 4.dll
+C:\Users\miles feliciano\source\repos\brrt brrt 4\brrt brrt 4\obj\Debug\net6.0\refint\brrt brrt 4.dll
+C:\Users\miles feliciano\source\repos\brrt brrt 4\brrt brrt 4\obj\Debug\net6.0\brrt brrt 4.pdb
+C:\Users\miles feliciano\source\repos\brrt brrt 4\brrt brrt 4\obj\Debug\net6.0\brrt brrt 4.genruntimeconfig.cache
+C:\Users\miles feliciano\source\repos\brrt brrt 4\brrt brrt 4\obj\Debug\net6.0\ref\brrt brrt 4.dll
